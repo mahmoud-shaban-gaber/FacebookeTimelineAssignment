@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My First Application</string>
+    <string name="welcome_back">Welcome back!</string>
+    <string name="facebook">facebook</string>
+    <string name="email_or_phone_number">Email or phone number</string>
+    <string name="log_in">Log In</string>
+    <string name="help_centre">Help Centre</string>
+    <string name="sign_up_for_facebook">Sign Up For Facebook</string>
+    <string name="password">password</string>
+    <string name="caption">Buckle up, because change is coming to WordPress</string>
+    <string name="like">like</string>
+    <string name="comment">comment</string>
+    <string name="share">share</string>
+</resources>
