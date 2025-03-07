@@ -39,9 +39,7 @@ public class FacebookTimelineActivity extends AppCompatActivity {
         adapter.setOnImageClickListener((postDM, position) -> {
             intentToFullImage(postDM);
         });
-        adapter.setOnLikeClickListener((postDM, position) -> {
-            postDMS.get(position).likesNumber="888";
-        });
+
         postsRecycler.setAdapter(adapter);
     }
 
